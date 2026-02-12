@@ -1,1 +1,9 @@
-build/
+*
+
+!*.c
+!*.h
+!Makefile
+!README.md
+!*.md
+!.gitignore
+
