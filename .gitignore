@@ -1,9 +1,6 @@
-*
+*.o
 
-!*.c
-!*.h
-!Makefile
-!README.md
-!*.md
-!.gitignore
+a.out
+
+!*.*
 
